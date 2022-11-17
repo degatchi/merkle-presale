@@ -1,8 +1,8 @@
-# Tokenomics Contracts
-
 ## Presale
 
 **Use in conjunction with my [Merkle Generator](https://github.com/DeGatchi/merkle-generator)**
+
+**These contracts were made for STFX***
 
 ### Workflow
 
@@ -59,4 +59,4 @@ Test result: ok. 19 passed; 0 failed; finished in 8.12s
 
 ## Disclaimer
 
-These are experimental programs, use at your own risk. STFX and the developers behind these programs are not liable for any loses.
+These are experimental programs, use at your own risk. DeGatchi is not liable for any loses.
